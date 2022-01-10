@@ -44,3 +44,23 @@ h2 {
   background-repeat: no-repeat;
   background-size: 15%;
 }
+.experience-item {
+  box-shadow: 10px 10px 40px gray;
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 15px;
+}
+#full-web {
+  border-left: 7px solid;
+  border-image: linear-gradient(red, black);
+  border-image-slice: 1;
+}
+#baby-web {
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+footer p {
+  text-align: center;
+}
